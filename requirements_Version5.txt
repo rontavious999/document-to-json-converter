@@ -1,0 +1,5 @@
+unstructured>=0.10.30
+unstructured[pdf]
+unstructured[docx]
+pdf2image
+pytesseract
